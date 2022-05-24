@@ -2,7 +2,7 @@
 Olá! 
 
 
-Me chamo Nelson Cardoso Neto sou Engenheiro Civil atualmente entrando no mundo do Data Science.  
+Me chamo Nelson Cardoso Neto sou Engenheiro Civil entrando no mundo do Data Science.  
 
 
 
